@@ -1,0 +1,2 @@
+# ncurses
+study of ncurses
